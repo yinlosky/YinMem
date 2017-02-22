@@ -1,0 +1,64 @@
+my i: 2
+start node: 1 end_node: 10
+my i: 2
+start node: 1 end_node: 10
+my i: 2
+start node: 1 end_node: 10
+my i: 2
+start node: 1 end_node: 10
+my i: 2
+start node: 1 end_node: 10
+sending syn1_tag costs: 0.069914
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.056819
+my i: 2
+start node: 1 end_node: 10
+sending syn1_tag costs: 0.065213
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.055974
+my i: 2
+start node: 1 end_node: 159783
+sending syn1_tag costs: 0.35461
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 2
+start node: 1 end_node: 159783
+sending syn1_tag costs: 0.077155
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.049554
+my i: 2
+start node: 1 end_node: 159783
+sending syn1_tag costs: 0.066192
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 2
+start node: 1 end_node: 1118481
+sending syn1_tag costs: 0.068447
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 2
+start node: 1 end_node: 1118481
+sending syn1_tag costs: 0.065056
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 2
+start node: 1 end_node: 1118481
+sending syn1_tag costs: 0.069058
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.063602
+my i: 2
+start node: 1 end_node: 1118481
+sending syn1_tag costs: 0.084355
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.064314
+my i: 2
+start node: 1 end_node: 1118481
+sending syn1_tag costs: 0.10394
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.073806

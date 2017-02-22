@@ -1,0 +1,5 @@
+my i: 80
+start node: 12463075 end_node: 12622857
+sending syn1_tag costs: 0.10168
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1

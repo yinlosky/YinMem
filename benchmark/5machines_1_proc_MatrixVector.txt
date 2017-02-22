@@ -1,0 +1,12 @@
+--------------------------updatev_i+1 begin-------------------
+Received data packet number 28Received data packet number 27Received data packet number 26Received data packet number 25Received data packet number 24Received data packet number 23Received data packet number 22Received data packet number 21Received data packet number 20Received data packet number 19Received data packet number 18Received data packet number 17Received data packet number 16Received data packet number 15Received data packet number 14Received data packet number 13Received data packet number 12Received data packet number 11Received data packet number 10Received data packet number 9Received data packet number 8Received data packet number 7Received data packet number 6Received data packet number 5Received data packet number 4Received data packet number 3Received data packet number 2Received data packet number 1updateV_i+1	32.5915
+Time received: 20-Apr-2016 18:03:23
+------------------updatev_i+1 done----------------
+Now saving the updatedQ to global file ...*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.61195
+Broadcasting	1.7335
+Broadcasting time: 20-Apr-2016 18:03:28
+Waiting for all processes: copy global v_i+1 to finish ...
+Received data packet number 28Received data packet number 27Received data packet number 26Received data packet number 25Received data packet number 24Received data packet number 23Received data packet number 22Received data packet number 21Received data packet number 20Received data packet number 19Received data packet number 18Received data packet number 17Received data packet number 16Received data packet number 15Received data packet number 14Received data packet number 13Received data packet number 12Received data packet number 11Received data packet number 10Received data packet number 9Received data packet number 8Received data packet number 7Received data packet number 6Received data packet number 5Received data packet number 4Received data packet number 3Received data packet number 2Received data packet number 1copyV_i+1	56.8702
+Time received: 20-Apr-2016 18:04:24
+***********************save updatedv done***************

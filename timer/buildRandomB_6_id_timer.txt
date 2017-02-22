@@ -1,0 +1,43 @@
+my i: 6
+start node: 639133 end_node: 798915
+sending syn1_tag costs: 0.11737
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 6
+start node: 639133 end_node: 798915
+sending syn1_tag costs: 0.10894
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.05581
+my i: 6
+start node: 639133 end_node: 798915
+sending syn1_tag costs: 0.063662
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 6
+start node: 4473925 end_node: 5592405
+sending syn1_tag costs: 0.09252
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 6
+start node: 4473925 end_node: 5592405
+sending syn1_tag costs: 0.069862
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 6
+start node: 4473925 end_node: 5592405
+sending syn1_tag costs: 0.071903
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+my i: 6
+start node: 4473925 end_node: 5592405
+sending syn1_tag costs: 0.083191
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.077213
+my i: 6
+start node: 4473925 end_node: 5592405
+sending syn1_tag costs: 0.066293
+Waiting for leader to continue to update_v1... 
+Received the con signal from leader process now update_v1
+sending syn2_tag costs: 0.04616

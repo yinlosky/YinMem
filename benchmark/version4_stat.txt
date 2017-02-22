@@ -1,0 +1,1018 @@
+***********************************************
+Begin time: 15-Apr-2016 10:41:50
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+***********************************************
+Begin time: 15-Apr-2016 10:46:48
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+MV	31.2458
+Time received: 15-Apr-2016 10:48:40
+***********************
+alpha	0.055882
+***********************
+Time broadcasts: 15-Apr-2016 10:48:41
+Broadcasting done time: 15-Apr-2016 10:48:42
+Broadcasting	1.5864
+onetime_saxv	27.4174
+Time received: 15-Apr-2016 10:49:10
+***********************************
+********************
+beta	0.17767
+************************
+Broadcasting	1.5052
+Time sent: 15-Apr-2016 10:49:12
+updateQ	28.6167
+Time received: 15-Apr-2016 10:49:41
+******************************
+saving updatedv	0.60647
+*******************************************
+Broadcasting	1.5593
+Broadcasting time: 15-Apr-2016 10:49:45
+copyV_i+1	48.1075
+Time received: 15-Apr-2016 10:50:33
+***********************
+MV	16.7766
+Time received: 15-Apr-2016 10:51:17
+***********************
+alpha	0.017514
+***********************
+Time broadcasts: 15-Apr-2016 10:51:17
+Broadcasting done time: 15-Apr-2016 10:51:19
+Broadcasting	1.4572
+onetime_saxv	27.6995
+Time received: 15-Apr-2016 10:51:46
+***********************************
+********************
+beta	0.084265
+************************
+Broadcasting	1.5469
+Time sent: 15-Apr-2016 10:51:49
+updateQ	28.8601
+Time received: 15-Apr-2016 10:52:18
+******************************
+saving updatedv	0.6258
+*******************************************
+Broadcasting	1.4107
+Broadcasting time: 15-Apr-2016 10:52:22
+copyV_i+1	54.8054
+Time received: 15-Apr-2016 10:53:16
+***********************
+MV	16.8215
+Time received: 15-Apr-2016 10:54:00
+***********************
+alpha	0.046532
+***********************
+Time broadcasts: 15-Apr-2016 10:54:01
+Broadcasting done time: 15-Apr-2016 10:54:02
+Broadcasting	1.5683
+onetime_saxv	27.6993
+Time received: 15-Apr-2016 10:54:30
+***********************************
+********************
+beta	0.084791
+************************
+Broadcasting	1.4807
+Time sent: 15-Apr-2016 10:54:32
+updateQ	28.4159
+Time received: 15-Apr-2016 10:55:01
+******************************
+saving updatedv	0.60649
+*******************************************
+Broadcasting	1.4868
+Broadcasting time: 15-Apr-2016 10:55:05
+copyV_i+1	24.9566
+Time received: 15-Apr-2016 10:55:30
+***********************
+MV	30.8025
+Time received: 15-Apr-2016 10:56:27
+***********************
+alpha	0.014867
+***********************
+Time broadcasts: 15-Apr-2016 10:56:28
+Broadcasting done time: 15-Apr-2016 10:56:30
+Broadcasting	1.5443
+onetime_saxv	27.4266
+Time received: 15-Apr-2016 10:56:57
+***********************************
+********************
+beta	0.48223
+************************
+Broadcasting	1.4866
+Time sent: 15-Apr-2016 10:57:00
+updateQ	28.199
+Time received: 15-Apr-2016 10:57:28
+******************************
+saving updatedv	0.60736
+*******************************************
+Broadcasting	1.451
+Broadcasting time: 15-Apr-2016 10:57:32
+copyV_i+1	25.1216
+Time received: 15-Apr-2016 10:57:57
+***********************
+MV	31.2511
+Time received: 15-Apr-2016 10:58:54
+***********************
+alpha	0.016558
+***********************
+Time broadcasts: 15-Apr-2016 10:58:55
+Broadcasting done time: 15-Apr-2016 10:58:57
+Broadcasting	1.6597
+onetime_saxv	28.2177
+Time received: 15-Apr-2016 10:59:25
+***********************************
+********************
+beta	0.44779
+************************
+Broadcasting	1.5291
+Time sent: 15-Apr-2016 10:59:28
+updateQ	29.0908
+Time received: 15-Apr-2016 10:59:57
+******************************
+saving updatedv	0.65255
+*******************************************
+Broadcasting	1.6843
+Broadcasting time: 15-Apr-2016 11:00:01
+copyV_i+1	54.545
+Time received: 15-Apr-2016 11:00:56
+***********************
+MV	31.1849
+Time received: 15-Apr-2016 11:01:54
+***********************
+alpha	0.013964
+***********************
+Time broadcasts: 15-Apr-2016 11:01:55
+Broadcasting done time: 15-Apr-2016 11:01:56
+Broadcasting	1.5112
+onetime_saxv	57.0418
+Time received: 15-Apr-2016 11:02:53
+***********************************
+********************
+beta	0.082588
+************************
+Broadcasting	2.2969
+Time sent: 15-Apr-2016 11:02:56
+updateQ	32.3072
+Time received: 15-Apr-2016 11:03:29
+******************************
+saving updatedv	0.59692
+*******************************************
+Broadcasting	1.7846
+Broadcasting time: 15-Apr-2016 11:03:33
+copyV_i+1	54.8531
+Time received: 15-Apr-2016 11:04:28
+***********************
+MV	31.1302
+Time received: 15-Apr-2016 11:05:26
+***********************
+alpha	0.01524
+***********************
+Time broadcasts: 15-Apr-2016 11:05:27
+Broadcasting done time: 15-Apr-2016 11:05:28
+Broadcasting	1.5647
+onetime_saxv	57.3821
+Time received: 15-Apr-2016 11:06:26
+***********************************
+********************
+beta	0.10114
+************************
+Broadcasting	3.0245
+Time sent: 15-Apr-2016 11:06:30
+updateQ	27.6702
+Time received: 15-Apr-2016 11:06:57
+******************************
+saving updatedv	0.62927
+*******************************************
+Broadcasting	1.4053
+Broadcasting time: 15-Apr-2016 11:07:01
+copyV_i+1	54.5835
+Time received: 15-Apr-2016 11:07:56
+***********************
+MV	31.2395
+Time received: 15-Apr-2016 11:08:54
+***********************
+alpha	0.015218
+***********************
+Time broadcasts: 15-Apr-2016 11:08:54
+Broadcasting done time: 15-Apr-2016 11:08:56
+Broadcasting	1.3236
+onetime_saxv	28.7291
+Time received: 15-Apr-2016 11:09:24
+***********************************
+********************
+beta	0.46863
+************************
+Broadcasting	1.4104
+Time sent: 15-Apr-2016 11:09:27
+updateQ	29.0882
+Time received: 15-Apr-2016 11:09:56
+******************************
+saving updatedv	0.51262
+*******************************************
+Broadcasting	1.3362
+Broadcasting time: 15-Apr-2016 11:10:00
+copyV_i+1	55.3912
+Time received: 15-Apr-2016 11:10:55
+***********************
+MV	31.5698
+Time received: 15-Apr-2016 11:11:53
+***********************
+alpha	0.014134
+***********************
+Time broadcasts: 15-Apr-2016 11:11:54
+Broadcasting done time: 15-Apr-2016 11:11:56
+Broadcasting	1.7978
+onetime_saxv	57.1645
+Time received: 15-Apr-2016 11:12:53
+***********************************
+********************
+beta	0.095784
+************************
+Broadcasting	1.6674
+Time sent: 15-Apr-2016 11:12:55
+updateQ	57.7344
+Time received: 15-Apr-2016 11:13:53
+******************************
+saving updatedv	0.64103
+*******************************************
+Broadcasting	1.5951
+Broadcasting time: 15-Apr-2016 11:13:57
+copyV_i+1	55.1391
+Time received: 15-Apr-2016 11:14:52
+***********************
+MV	31.2386
+Time received: 15-Apr-2016 11:15:51
+***********************
+alpha	0.016877
+***********************
+Time broadcasts: 15-Apr-2016 11:15:51
+Broadcasting done time: 15-Apr-2016 11:15:53
+Broadcasting	1.6794
+onetime_saxv	56.9731
+Time received: 15-Apr-2016 11:16:50
+***********************************
+********************
+beta	0.4456
+************************
+Broadcasting	1.6797
+Time sent: 15-Apr-2016 11:16:53
+updateQ	57.4786
+Time received: 15-Apr-2016 11:17:51
+******************************
+saving updatedv	0.64613
+*******************************************
+Broadcasting	1.6117
+Broadcasting time: 15-Apr-2016 11:17:55
+copyV_i+1	55.3483
+Time received: 15-Apr-2016 11:18:50
+***********************
+***********************************************
+Begin time: 15-Apr-2016 15:07:22
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+=============================Iteration 1 begins============================--------------------------MV begin--------------------- 
+MV	31.028
+Time received: 15-Apr-2016 15:09:51
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.12446
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:09:52
+Broadcasting done time: 15-Apr-2016 15:09:53
+Broadcasting	1.4715
+onetime_saxv	28.2702
+Time received: 15-Apr-2016 15:10:22
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.16828
+************************
+Broadcasting	1.4609
+Time sent: 15-Apr-2016 15:10:24
+updateV	29.0118
+Time received: 15-Apr-2016 15:10:53
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.60806
+Broadcasting	1.6979
+Broadcasting time: 15-Apr-2016 15:10:57
+copyV_i+1	54.8491
+Time received: 15-Apr-2016 15:11:52
+***********************save updatedv done***************
+=============================Iteration 1 Done=========================================================Iteration 2 begins============================--------------------------MV begin--------------------- 
+MV	31.0518
+Time received: 15-Apr-2016 15:12:50
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.015891
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:12:50
+Broadcasting done time: 15-Apr-2016 15:12:52
+Broadcasting	1.4277
+onetime_saxv	57.502
+Time received: 15-Apr-2016 15:13:49
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.089914
+************************
+Broadcasting	1.8998
+Time sent: 15-Apr-2016 15:13:52
+updateV	57.2497
+Time received: 15-Apr-2016 15:14:49
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.60268
+Broadcasting	1.5754
+Broadcasting time: 15-Apr-2016 15:14:53
+copyV_i+1	55.8994
+Time received: 15-Apr-2016 15:15:49
+***********************save updatedv done***************
+=============================Iteration 2 Done=========================================================Iteration 3 begins============================--------------------------MV begin--------------------- 
+MV	16.4443
+Time received: 15-Apr-2016 15:16:33
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.016108
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:16:34
+Broadcasting done time: 15-Apr-2016 15:16:36
+Broadcasting	1.4114
+onetime_saxv	27.6975
+Time received: 15-Apr-2016 15:17:03
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.18422
+************************
+Broadcasting	1.8146
+Time sent: 15-Apr-2016 15:17:06
+updateV	28.3807
+Time received: 15-Apr-2016 15:17:34
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.75077
+Broadcasting	1.8479
+Broadcasting time: 15-Apr-2016 15:17:39
+copyV_i+1	24.3509
+Time received: 15-Apr-2016 15:18:03
+***********************save updatedv done***************
+=============================Iteration 3 Done=========================================================Iteration 4 begins============================--------------------------MV begin--------------------- 
+MV	31.0728
+Time received: 15-Apr-2016 15:19:01
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.016678
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:19:02
+Broadcasting done time: 15-Apr-2016 15:19:04
+Broadcasting	1.5894
+onetime_saxv	27.5969
+Time received: 15-Apr-2016 15:19:31
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.090658
+************************
+Broadcasting	1.4349
+Time sent: 15-Apr-2016 15:19:34
+updateV	28.704
+Time received: 15-Apr-2016 15:20:02
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.58922
+Broadcasting	1.5107
+Broadcasting time: 15-Apr-2016 15:20:07
+copyV_i+1	26.4479
+Time received: 15-Apr-2016 15:20:33
+***********************save updatedv done***************
+=============================Iteration 4 Done=========================================================Iteration 5 begins============================--------------------------MV begin--------------------- 
+MV	31.339
+Time received: 15-Apr-2016 15:21:31
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.015573
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:21:32
+Broadcasting done time: 15-Apr-2016 15:21:34
+Broadcasting	1.7384
+onetime_saxv	57.3385
+Time received: 15-Apr-2016 15:22:31
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.085805
+************************
+Broadcasting	1.8641
+Time sent: 15-Apr-2016 15:22:34
+updateV	58.1337
+Time received: 15-Apr-2016 15:23:32
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.64771
+Broadcasting	1.5326
+Broadcasting time: 15-Apr-2016 15:23:36
+copyV_i+1	55.805
+Time received: 15-Apr-2016 15:24:32
+***********************save updatedv done***************
+=============================Iteration 5 Done=========================================================Iteration 6 begins============================--------------------------MV begin--------------------- 
+MV	30.9975
+Time received: 15-Apr-2016 15:25:30
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.014656
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:25:30
+Broadcasting done time: 15-Apr-2016 15:25:32
+Broadcasting	1.4256
+onetime_saxv	57.5824
+Time received: 15-Apr-2016 15:26:29
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.088531
+************************
+Broadcasting	1.8762
+Time sent: 15-Apr-2016 15:26:32
+updateV	32.4202
+Time received: 15-Apr-2016 15:27:05
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.63695
+Broadcasting	1.4323
+Broadcasting time: 15-Apr-2016 15:27:09
+copyV_i+1	54.9063
+Time received: 15-Apr-2016 15:28:04
+***********************save updatedv done***************
+=============================Iteration 6 Done=========================================================Iteration 7 begins============================--------------------------MV begin--------------------- 
+MV	30.9668
+Time received: 15-Apr-2016 15:29:01
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.017434
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:29:02
+Broadcasting done time: 15-Apr-2016 15:29:04
+Broadcasting	1.6064
+onetime_saxv	28.1278
+Time received: 15-Apr-2016 15:29:32
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.097339
+************************
+Broadcasting	1.5046
+Time sent: 15-Apr-2016 15:29:34
+updateV	30.0324
+Time received: 15-Apr-2016 15:30:04
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.58962
+Broadcasting	1.5215
+Broadcasting time: 15-Apr-2016 15:30:08
+copyV_i+1	53.9822
+Time received: 15-Apr-2016 15:31:02
+***********************save updatedv done***************
+=============================Iteration 7 Done=========================================================Iteration 8 begins============================--------------------------MV begin--------------------- 
+MV	31.008
+Time received: 15-Apr-2016 15:32:00
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.014615
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:32:01
+Broadcasting done time: 15-Apr-2016 15:32:03
+Broadcasting	1.5733
+onetime_saxv	27.5411
+Time received: 15-Apr-2016 15:32:30
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.0721
+************************
+Broadcasting	1.5586
+Time sent: 15-Apr-2016 15:32:33
+updateV	28.5251
+Time received: 15-Apr-2016 15:33:01
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.57276
+Broadcasting	1.4525
+Broadcasting time: 15-Apr-2016 15:33:05
+copyV_i+1	55.2921
+Time received: 15-Apr-2016 15:34:00
+***********************save updatedv done***************
+=============================Iteration 8 Done=========================================================Iteration 9 begins============================--------------------------MV begin--------------------- 
+MV	31.3297
+Time received: 15-Apr-2016 15:34:58
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.013487
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:34:59
+Broadcasting done time: 15-Apr-2016 15:35:01
+Broadcasting	1.7484
+onetime_saxv	27.1861
+Time received: 15-Apr-2016 15:35:28
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.084467
+************************
+Broadcasting	1.4043
+Time sent: 15-Apr-2016 15:35:30
+updateV	29.001
+Time received: 15-Apr-2016 15:35:59
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.5773
+Broadcasting	1.4803
+Broadcasting time: 15-Apr-2016 15:36:03
+copyV_i+1	54.5441
+Time received: 15-Apr-2016 15:36:58
+***********************save updatedv done***************
+=============================Iteration 9 Done=========================================================Iteration 10 begins============================--------------------------MV begin--------------------- 
+MV	31.1268
+Time received: 15-Apr-2016 15:37:56
+--------------------------MV Done--------------------- '***********************alpha begin**************
+alpha	0.016461
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 15-Apr-2016 15:37:57
+Broadcasting done time: 15-Apr-2016 15:37:58
+Broadcasting	1.5113
+onetime_saxv	27.5413
+Time received: 15-Apr-2016 15:38:26
+--------------------------onetime_saxv done-----------------------
+********************
+beta	0.073636
+************************
+Broadcasting	1.5708
+Time sent: 15-Apr-2016 15:38:28
+updateV	29.2082
+Time received: 15-Apr-2016 15:38:57
+------------------updatev done----------------
+*****************saving updatedv begin*************************
+saving updatedv in leader	0.67211
+Broadcasting	1.3857
+Broadcasting time: 15-Apr-2016 15:39:01
+copyV_i+1	25.9952
+Time received: 15-Apr-2016 15:39:27
+***********************save updatedv done***************
+=============================Iteration 10 Done============================***********************************************
+Begin time: 20-Apr-2016 17:18:55
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	31.2879
+Time received: 20-Apr-2016 17:20:54
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.065508
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:20:55
+Broadcasting done time: 20-Apr-2016 17:20:56
+Broadcasting	1.4928
+onetime_saxv	29.4599
+Time received: 20-Apr-2016 17:21:26
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.53726
+************************beta done*******************
+***********************************************
+Begin time: 20-Apr-2016 17:24:22
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	31.2532
+Time received: 20-Apr-2016 17:26:44
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.053315
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:26:45
+Broadcasting done time: 20-Apr-2016 17:26:46
+Broadcasting	1.4323
+onetime_saxv	27.5653
+Time received: 20-Apr-2016 17:27:14
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.20422
+************************beta done*******************
+***********************************************
+Begin time: 20-Apr-2016 17:30:19
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	31.0986
+Time received: 20-Apr-2016 17:32:11
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.058141
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:32:12
+Broadcasting done time: 20-Apr-2016 17:32:14
+Broadcasting	1.6914
+onetime_saxv	57.5917
+Time received: 20-Apr-2016 17:33:11
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.15685
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	2.705
+Time received: 20-Apr-2016 17:33:41
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.74323
+Broadcasting	1.818
+Broadcasting time: 20-Apr-2016 17:33:45
+copyV_i+1	55.6597
+Time received: 20-Apr-2016 17:34:41
+***********************save updatedv done***************
+=============================Iteration 1 Done============================
+=============================Iteration 2 begins============================
+--------------------------MV begin--------------------- 
+MV	31.2457
+Time received: 20-Apr-2016 17:35:39
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.016434
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:35:40
+Broadcasting done time: 20-Apr-2016 17:35:41
+Broadcasting	1.5822
+onetime_saxv	27.4729
+Time received: 20-Apr-2016 17:36:09
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.087361
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	3.6007
+Time received: 20-Apr-2016 17:36:39
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.65313
+Broadcasting	1.6261
+Broadcasting time: 20-Apr-2016 17:36:43
+copyV_i+1	56.3306
+Time received: 20-Apr-2016 17:37:40
+***********************save updatedv done***************
+=============================Iteration 2 Done============================
+=============================Iteration 3 begins============================
+--------------------------MV begin--------------------- 
+MV	31.1669
+Time received: 20-Apr-2016 17:38:38
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.01712
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:38:39
+Broadcasting done time: 20-Apr-2016 17:38:40
+Broadcasting	1.6576
+onetime_saxv	27.6209
+Time received: 20-Apr-2016 17:39:08
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.10352
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	31.38
+Time received: 20-Apr-2016 17:40:06
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	1.0227
+Broadcasting	1.577
+Broadcasting time: 20-Apr-2016 17:40:11
+copyV_i+1	56.3228
+Time received: 20-Apr-2016 17:41:07
+***********************save updatedv done***************
+=============================Iteration 3 Done============================
+=============================Iteration 4 begins============================
+--------------------------MV begin--------------------- 
+MV	31.2381
+Time received: 20-Apr-2016 17:42:05
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.021596
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:42:06
+Broadcasting done time: 20-Apr-2016 17:42:07
+Broadcasting	1.428
+onetime_saxv	57.108
+Time received: 20-Apr-2016 17:43:04
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.46629
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	2.8285
+Time received: 20-Apr-2016 17:43:33
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.70498
+Broadcasting	2.0854
+Broadcasting time: 20-Apr-2016 17:43:38
+copyV_i+1	31.5067
+Time received: 20-Apr-2016 17:44:09
+***********************save updatedv done***************
+=============================Iteration 4 Done============================
+=============================Iteration 5 begins============================
+--------------------------MV begin--------------------- 
+MV	31.416
+Time received: 20-Apr-2016 17:45:07
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.017992
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:45:07
+Broadcasting done time: 20-Apr-2016 17:45:09
+Broadcasting	1.4546
+onetime_saxv	57.3843
+Time received: 20-Apr-2016 17:46:06
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.091623
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	2.5081
+Time received: 20-Apr-2016 17:46:36
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.59624
+Broadcasting	1.4411
+Broadcasting time: 20-Apr-2016 17:46:40
+copyV_i+1	55.6107
+Time received: 20-Apr-2016 17:47:35
+***********************save updatedv done***************
+=============================Iteration 5 Done============================
+=============================Iteration 6 begins============================
+--------------------------MV begin--------------------- 
+MV	31.6195
+Time received: 20-Apr-2016 17:48:33
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.015906
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:48:34
+Broadcasting done time: 20-Apr-2016 17:48:36
+Broadcasting	1.3953
+onetime_saxv	28.4971
+Time received: 20-Apr-2016 17:49:04
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.081022
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	31.9834
+Time received: 20-Apr-2016 17:50:02
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.85046
+Broadcasting	1.6717
+Broadcasting time: 20-Apr-2016 17:50:06
+copyV_i+1	54.9127
+Time received: 20-Apr-2016 17:51:01
+***********************save updatedv done***************
+=============================Iteration 6 Done============================
+=============================Iteration 7 begins============================
+--------------------------MV begin--------------------- 
+MV	31.3837
+Time received: 20-Apr-2016 17:52:00
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.016107
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:52:01
+Broadcasting done time: 20-Apr-2016 17:52:03
+Broadcasting	1.7223
+onetime_saxv	31.3967
+Time received: 20-Apr-2016 17:52:34
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.095452
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	32.0283
+Time received: 20-Apr-2016 17:53:32
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.63059
+Broadcasting	1.7703
+Broadcasting time: 20-Apr-2016 17:53:36
+copyV_i+1	54.5761
+Time received: 20-Apr-2016 17:54:31
+***********************save updatedv done***************
+=============================Iteration 7 Done============================
+=============================Iteration 8 begins============================
+--------------------------MV begin--------------------- 
+MV	31.317
+Time received: 20-Apr-2016 17:55:28
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.016191
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:55:29
+Broadcasting done time: 20-Apr-2016 17:55:31
+Broadcasting	1.4509
+onetime_saxv	27.2288
+Time received: 20-Apr-2016 17:55:58
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.071636
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	32.2229
+Time received: 20-Apr-2016 17:56:55
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.63428
+Broadcasting	1.6904
+Broadcasting time: 20-Apr-2016 17:57:00
+copyV_i+1	31.5774
+Time received: 20-Apr-2016 17:57:31
+***********************save updatedv done***************
+=============================Iteration 8 Done============================
+=============================Iteration 9 begins============================
+--------------------------MV begin--------------------- 
+MV	31.16
+Time received: 20-Apr-2016 17:58:29
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.013693
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 17:58:30
+Broadcasting done time: 20-Apr-2016 17:58:31
+Broadcasting	1.4927
+onetime_saxv	57.5463
+Time received: 20-Apr-2016 17:59:29
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.091248
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	2.4745
+Time received: 20-Apr-2016 17:59:58
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.65907
+Broadcasting	1.7856
+Broadcasting time: 20-Apr-2016 18:00:03
+copyV_i+1	55.4468
+Time received: 20-Apr-2016 18:00:58
+***********************save updatedv done***************
+=============================Iteration 9 Done============================
+=============================Iteration 10 begins============================
+--------------------------MV begin--------------------- 
+MV	31.1738
+Time received: 20-Apr-2016 18:01:56
+--------------------------MV Done--------------------- ***********************alpha begin**************
+alpha	0.014117
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------Time broadcasts: 20-Apr-2016 18:01:57
+Broadcasting done time: 20-Apr-2016 18:01:58
+Broadcasting	1.5496
+onetime_saxv	27.2726
+Time received: 20-Apr-2016 18:02:25
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.07101
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	32.5915
+Time received: 20-Apr-2016 18:03:23
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	0.61195
+Broadcasting	1.7335
+Broadcasting time: 20-Apr-2016 18:03:28
+copyV_i+1	56.8702
+Time received: 20-Apr-2016 18:04:24
+***********************save updatedv done***************
+=============================Iteration 10 Done============================
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	32.1326
+Time received: 17-May-2016 15:15:37
+--------------------------MV Done--------------------- 
+***********************alpha begin**************
+alpha is 3.881takes: 	0.20853
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------
+Time broadcasts: 17-May-2016 15:15:38
+Broadcasting done time: 17-May-2016 15:15:43
+Broadcasting	4.7704
+onetime_saxv	56.1689
+Time received: 17-May-2016 15:16:39
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	1.0681
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	14.2721
+Time received: 17-May-2016 15:18:10
+------------------updatev_i+1 done----------------
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	32.8508
+Time received: 17-May-2016 15:31:39
+--------------------------MV Done--------------------- 
+***********************alpha begin**************
+alpha is 3.881takes: 	0.13813
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------
+Time broadcasts: 17-May-2016 15:31:41
+Broadcasting done time: 17-May-2016 15:31:45
+Broadcasting	4.3055
+onetime_saxv	56.598
+Time received: 17-May-2016 15:32:42
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.2488
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	14.6468
+Time received: 17-May-2016 15:34:11
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	4.1908
+Broadcasting	3.1744
+Broadcasting time: 17-May-2016 15:34:20
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	32.9765
+Time received: 17-May-2016 15:58:31
+--------------------------MV Done--------------------- 
+***********************alpha begin**************
+alpha is 3.881takes: 	0.072984
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------
+Time broadcasts: 17-May-2016 15:58:32
+Broadcasting done time: 17-May-2016 15:58:36
+Broadcasting	3.7522
+onetime_saxv	57.8342
+Time received: 17-May-2016 15:59:33
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.39853
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	14.0371
+Time received: 17-May-2016 16:01:00
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	4.0473
+Broadcasting	3.2309
+Broadcasting time: 17-May-2016 16:01:09
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	31.0625
+Time received: 18-May-2016 13:17:30
+--------------------------MV Done--------------------- 
+***********************alpha begin**************
+alpha is 3.881takes: 	0.18455
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------
+Time broadcasts: 18-May-2016 13:17:31
+Broadcasting done time: 18-May-2016 13:17:35
+Broadcasting	3.3526
+onetime_saxv	34.1131
+Time received: 18-May-2016 13:18:09
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.24675
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	14.3073
+Time received: 18-May-2016 13:19:39
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	3.9804
+Broadcasting	3.439
+Broadcasting time: 18-May-2016 13:19:48
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	32.3655
+Time received: 18-May-2016 13:27:18
+--------------------------MV Done--------------------- 
+***********************alpha begin**************
+alpha is 3.881takes: 	0.067974
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------
+Time broadcasts: 18-May-2016 13:27:19
+Broadcasting done time: 18-May-2016 13:27:22
+Broadcasting	3.173
+onetime_saxv	30.7859
+Time received: 18-May-2016 13:27:53
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.27003
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	14.6228
+Time received: 18-May-2016 13:29:23
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	10.6136
+Broadcasting	3.2984
+Broadcasting time: 18-May-2016 13:29:39
+=============================Iteration 1 begins============================
+--------------------------MV begin--------------------- 
+MV	33.1498
+Time received: 18-May-2016 13:48:41
+--------------------------MV Done--------------------- 
+***********************alpha begin**************
+alpha is 3.881takes: 	0.064742
+***********************alpha done*****************
+------------------------onetime_saxv begin-------------------
+Time broadcasts: 18-May-2016 13:48:42
+Broadcasting done time: 18-May-2016 13:48:45
+Broadcasting	3.2309
+onetime_saxv	30.4762
+Time received: 18-May-2016 13:49:16
+--------------------------onetime_saxv done-----------------------
+************************beta begins********************
+beta	0.22287
+************************beta done*******************
+--------------------------updatev_i+1 begin-------------------
+updateV_i+1	30.0246
+Time received: 18-May-2016 13:51:02
+------------------updatev_i+1 done----------------
+*****************saving updatedv_i+1 begin*************************
+saving updatedv in leader	10.2679
+Broadcasting	3.0069
+Broadcasting time: 18-May-2016 13:51:17

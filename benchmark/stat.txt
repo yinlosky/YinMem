@@ -1,0 +1,871 @@
+***********************************************
+Begin time: 29-Mar-2016 23:42:05
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)***********************************************
+Begin time: 29-Mar-2016 23:53:28
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)***********************************************
+Begin time: 29-Mar-2016 23:58:18
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Iteration 1 Alluxio_Row_mv_version2 takes: 89.8514
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.29514s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 65.2838s
+***********************************************
+Begin time: 30-Mar-2016 00:07:02
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)***********************************************
+Begin time: 30-Mar-2016 00:20:43
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)***********************************************
+Begin time: 30-Mar-2016 00:26:57
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)***********************************************
+Begin time: 30-Mar-2016 00:35:33
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)***********************************************
+Begin time: 30-Mar-2016 00:43:43
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.5871sMachine copy vector costs 72.132s***********************************************
+Begin time: 30-Mar-2016 00:56:47
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.6279sMachine copy vector costs 70.9916sSaving partial vector i: 95.15s
+Iteration 1 Alluxio_Row_mv_version2 takes: 108.0993
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.25707s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 65.3721s
+***********************************************
+Begin time: 31-Mar-2016 14:57:39
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.5675sMachine copy vector costs 71.0798sSaving partial vector i: 91.153s
+Iteration 1 Alluxio_Row_mv_version2 takes: 106.9338
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.28616s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 64.4935s
+***********************************************
+Begin time: 31-Mar-2016 15:22:18
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.4366sMachine copy vector costs 70.9925sSaving partial vector i: 91.8315s
+Iteration 1 Alluxio_Row_mv_version2 takes: 107.6261
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.25896s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 65.0641s
+***********************************************
+Begin time: 31-Mar-2016 15:44:22
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.6143sMachine copy vector costs 92.983sSaving partial vector i: 92.1135s
+Iteration 1 Alluxio_Row_mv_version2 takes: 108.3451
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.2633s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 64.877s
+Iteration 1 Calculating alpha takes: 109.6618
+Iteration 1 onetime_saxv: 110.7706
+Iteration 1 beta takes: 111.9726
+***********************************************
+Begin time: 31-Mar-2016 16:07:11
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)***********************************************
+Begin time: 31-Mar-2016 16:07:31
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.6646sMachine copy vector costs 70.756sSaving partial vector i: 94.0056s
+Iteration 1 Alluxio_Row_mv_version2 takes: 108.4394
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.31168s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 64.695s
+Iteration 1 Calculating alpha takes: 115.0717
+***********************************************
+Begin time: 31-Mar-2016 16:19:24
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.4352sMachine copy vector costs 117.9816sSaving partial vector i: 92.643s
+Iteration 1 Alluxio_Row_mv_version2 takes: 112.004
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.43398s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 68.9789s
+Iteration 1 Calculating alpha takes: 112.8069
+Iteration 1 onetime_saxv: 110.9193
+Iteration 1 beta takes: 110.0431
+***********************************************
+Begin time: 31-Mar-2016 16:34:44
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.399sMachine copy vector costs 70.9754sSaving partial vector i: 93.3155s
+Iteration 1 Alluxio_Row_mv_version2 takes: 110.2973
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.27911s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 64.4503s
+p1 costs 91.8251s
+p2 costs 0.080232s
+Iteration 1 Calculating alpha takes: 91.9118
+Iteration 1 onetime_saxv: 111.6459
+Iteration 1 beta takes: 116.1085
+***********************************************
+Begin time: 31-Mar-2016 16:59:36
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.5444sMachine copy vector costs 71.0293sSaving partial vector i: 90.7253s
+Iteration 1 Alluxio_Row_mv_version2 takes: 107.6144
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.29472s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 64.4332s
+p1 costs 91.9111s
+p2 costs 0.079539s
+Iteration 1 Calculating alpha takes: 91.9978
+Iteration 1 onetime_saxv: 108.9938
+Iteration 1 beta takes: 103.7328
+***********************************************
+Begin time: 31-Mar-2016 17:24:20
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Saving vector to global file costs 6.4656sMachine copy vector costs 92.7424sSaving partial vector i: 89.9157s
+Iteration 1 Alluxio_Row_mv_version2 takes: 108.9183
+Now saving lz_vpath to global file ... 
+Saving lz_vpath to global file takes: 0.3144s
+Saving lz_vpath to local machines ...
+Saving lz_vpath to local machines takes 64.1274s
+p1 costs 92.2634s
+p2 costs 0.080803s
+Iteration 1 Calculating alpha takes: 92.3515
+Iteration 1 onetime_saxv: 109.9245
+Iteration 1 beta takes: 109.7318
+***********************************************
+Begin time: 05-Apr-2016 17:36:14
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,1,1,1,0,0,0,1)Saving vector to global file costs 6.7595sMachine copy vector costs 102.9965sSaving partial vector i: 110.8847s
+***********************************************
+Begin time: 07-Apr-2016 16:37:40
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)Leader process for matrix*vector runs: 8.9059
+Calculation alpha costs 0.000187s
+Broadcasting costs: 6.3598s
+Leader process for onetimesaxv runs: 54.2411
+Iteration 1 beta takes: 0.18493
+Broadcasting costs: 5.8086s
+Leader process for updateQ runs: 54.5069
+takes: 1.1275s
+Broadcasting costs: 7.0363s
+Leader process for copyV_i+1 runs: 44.5674
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.010167
+Iteration: 1: 285.4083s
+Leader process for matrix*vector runs: 8.9036
+Calculation alpha costs 2.3e-05s
+Broadcasting costs: 7.0305s
+***********************************************
+Begin time: 08-Apr-2016 15:53:27
+*********************************************Commands: YinEigen( 16,106,1048576,0,105,10,5,1,0,0,0,1)MV: 	8.0859
+alpha	0.000189
+Broadcasting	5.5044
+onetime_saxv	55.1982
+beta	0.19324
+Broadcasting	6.8446
+updateQ	53.0977
+saving updatedv	1.1912
+Broadcasting	6.5133
+copyV_i+1	48.6569
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.009919
+Iteration: 1: 243.9518s
+MV: 	8.3415
+alpha	2.2e-05
+Broadcasting	5.9859
+onetime_saxv	56.6694
+beta	0.09214
+Broadcasting	6.7986
+updateQ	39.3814
+saving updatedv	0.60576
+Broadcasting	6.4477
+copyV_i+1	50.179
+Iteration 2 Alluxio_Row_mv_version3 takes: 0.000957
+Iteration: 2: 256.9288s
+MV: 	8.2547
+alpha	2.1e-05
+Broadcasting	5.5178
+onetime_saxv	57.9394
+beta	0.092768
+Broadcasting	6.8602
+updateQ	26.8966
+saving updatedv	0.56695
+Broadcasting	6.1503
+copyV_i+1	51.7981
+Iteration 3 Alluxio_Row_mv_version3 takes: 0.000944
+Iteration: 3: 243.348s
+MV: 	8.0745
+alpha	2e-05
+Broadcasting	7.1469
+onetime_saxv	37.6053
+beta	0.090186
+Broadcasting	11.4984
+updateQ	38.8844
+saving updatedv	0.58841
+Broadcasting	5.345
+copyV_i+1	50.3969
+Iteration 4 Alluxio_Row_mv_version3 takes: 0.000949
+Iteration: 4: 240.9193s
+MV: 	8.0303
+alpha	1.5e-05
+Broadcasting	6.2215
+onetime_saxv	56.4487
+beta	0.10851
+Broadcasting	6.4359
+updateQ	55.0306
+saving updatedv	0.60988
+Broadcasting	6.061
+copyV_i+1	55.5934
+Iteration 5 Alluxio_Row_mv_version3 takes: 0.000951
+Iteration: 5: 275.1917s
+MV: 	7.7756
+alpha	2e-05
+Broadcasting	6.6828
+onetime_saxv	38.5056
+beta	0.095606
+Broadcasting	8.2342
+updateQ	38.8085
+saving updatedv	0.65897
+Broadcasting	7.1141
+copyV_i+1	48.2947
+Iteration 6 Alluxio_Row_mv_version3 takes: 0.00066
+Iteration: 6: 235.9917s
+MV: 	8.2424
+alpha	3e-05
+Broadcasting	6.0902
+onetime_saxv	37.7034
+beta	0.089
+Broadcasting	6.7607
+updateQ	54.051
+saving updatedv	0.58335
+Broadcasting	8.1132
+copyV_i+1	38.301
+Iteration 7 Alluxio_Row_mv_version3 takes: 0.000958
+Iteration: 7: 240.8926s
+MV: 	8.0558
+alpha	2.1e-05
+Broadcasting	6.3971
+onetime_saxv	56.0255
+beta	0.11699
+Broadcasting	6.9111
+updateQ	56.8813
+saving updatedv	0.62436
+Broadcasting	5.6611
+copyV_i+1	50.4519
+Iteration 8 Alluxio_Row_mv_version3 takes: 0.000953
+Iteration: 8: 272.4936s
+MV: 	8.3953
+alpha	2.2e-05
+Broadcasting	5.7582
+onetime_saxv	56.8877
+beta	0.072948
+Broadcasting	7.564
+updateQ	39.3772
+saving updatedv	0.59677
+Broadcasting	15.7424
+copyV_i+1	39.811
+Iteration 9 Alluxio_Row_mv_version3 takes: 0.000939
+Iteration: 9: 254.2244s
+MV: 	8.1853
+alpha	2.2e-05
+Broadcasting	6.9665
+onetime_saxv	38.53
+beta	0.10572
+Broadcasting	9.3817
+updateQ	50.5766
+saving updatedv	0.6705
+Broadcasting	10.3737
+copyV_i+1	49.3819
+Iteration 10 Alluxio_Row_mv_version3 takes: 0.000954
+Iteration: 10: 256.7527s
+Ending time: 08-Apr-2016 16:36:07
+***********************************************
+Begin time: 13-Apr-2016 09:52:54
+*******************************************
+**Commands: YinEigen( 9,57,1048576,0,105,10,5,1,0,1,0,1)
+***********************************************
+Begin time: 13-Apr-2016 10:05:04
+*******************************************
+**Commands: YinEigen( 9,57,1048576,0,105,10,5,1,0,1,0,1)
+Store to TFS running time: 1174.3199s
+Saving vector to global file costs 6.4536sMachine copy vector costs 66.3968sMV	3.7324
+alpha	0.062645
+Broadcasting	3.0859
+onetime_saxv	29.0556
+beta	0.14443
+Broadcasting	3.0932
+updateQ	27.6458
+saving updatedv	0.70795
+Broadcasting	2.8246
+copyV_i+1	25.123
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.002808
+Iteration: 1: 208.2708s
+MV	32.7186
+alpha	0.016543
+Broadcasting	2.9726
+onetime_saxv	57.5263
+beta	0.44205
+Broadcasting	3.1602
+updateQ	29.2526
+saving updatedv	0.57611
+Broadcasting	3.0841
+copyV_i+1	53.9464
+Iteration 2 Alluxio_Row_mv_version3 takes: 0.000824
+Iteration: 2: 231.6789s
+MV	3.6427
+alpha	0.01688
+Broadcasting	3.0377
+onetime_saxv	29.6132
+beta	0.082025
+Broadcasting	3.0734
+updateQ	27.5143
+saving updatedv	0.67605
+Broadcasting	3.0592
+copyV_i+1	53.9364
+Iteration 3 Alluxio_Row_mv_version3 takes: 0.000943
+Iteration: 3: 172.78s
+MV	4.0956
+alpha	0.015269
+Broadcasting	2.933
+onetime_saxv	29.4334
+beta	0.077154
+Broadcasting	2.8662
+updateQ	27.7816
+saving updatedv	0.62788
+Broadcasting	3.0762
+copyV_i+1	25.0976
+Iteration 4 Alluxio_Row_mv_version3 takes: 0.000841
+Iteration: 4: 144.5351s
+MV	33.2804
+alpha	0.015735
+Broadcasting	2.9715
+onetime_saxv	56.2071
+beta	0.091562
+Broadcasting	3.1455
+updateQ	56.5405
+saving updatedv	1.1309
+Broadcasting	3.2375
+copyV_i+1	52.936
+Iteration 5 Alluxio_Row_mv_version3 takes: 0.001316
+Iteration: 5: 259.3337s
+MV	4.0217
+alpha	0.014736
+Broadcasting	3.0605
+onetime_saxv	29.0988
+beta	0.073876
+Broadcasting	2.9438
+updateQ	27.5851
+saving updatedv	0.62219
+Broadcasting	2.9621
+copyV_i+1	25.7878
+Iteration 6 Alluxio_Row_mv_version3 takes: 0.000884
+Iteration: 6: 144.6012s
+MV	33.2889
+alpha	0.013068
+Broadcasting	3.1266
+onetime_saxv	57.2715
+beta	0.079264
+Broadcasting	3.2046
+updateQ	30.1644
+saving updatedv	0.77253
+Broadcasting	3.0101
+copyV_i+1	33.4006
+Iteration 7 Alluxio_Row_mv_version3 takes: 0.000853
+Iteration: 7: 215.4267s
+MV	32.9616
+alpha	0.01296
+Broadcasting	3.0123
+onetime_saxv	57.3704
+beta	0.44466
+Broadcasting	3.0609
+updateQ	29.4686
+saving updatedv	0.57917
+Broadcasting	2.8151
+copyV_i+1	26.1727
+Iteration 8 Alluxio_Row_mv_version3 takes: 0.000578
+Iteration: 8: 203.8919s
+MV	33.1909
+alpha	0.016016
+Broadcasting	2.952
+onetime_saxv	57.0784
+beta	0.083723
+Broadcasting	3.2274
+updateQ	29.9223
+saving updatedv	0.60681
+Broadcasting	2.8987
+copyV_i+1	54.2745
+Iteration 9 Alluxio_Row_mv_version3 takes: 0.000839
+Iteration: 9: 232.344s
+MV	3.6771
+alpha	0.015701
+Broadcasting	2.9502
+onetime_saxv	29.6736
+beta	0.074827
+Broadcasting	2.8457
+updateQ	27.9386
+saving updatedv	0.8846
+Broadcasting	2.8287
+copyV_i+1	25.6778
+Iteration 10 Alluxio_Row_mv_version3 takes: 0.000827
+Iteration: 10: 145.7552s
+Ending time: 13-Apr-2016 10:57:57
+***********************************************
+Begin time: 13-Apr-2016 14:02:28
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,1,0,1)
+Store to TFS running time: 1414.3526s
+Saving vector to global file costs 6.4449sMachine copy vector costs 51.3707sMV	16.2119
+alpha	0.058855
+Broadcasting	1.7364
+onetime_saxv	27.1939
+beta	0.19254
+Broadcasting	1.6235
+updateQ	28.3276
+saving updatedv	0.72426
+Broadcasting	1.8369
+copyV_i+1	24.5922
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.001981
+Iteration: 1: 186.9733s
+MV	31.1442
+alpha	0.014255
+Broadcasting	1.4426
+onetime_saxv	57.8825
+beta	0.092223
+Broadcasting	1.6767
+updateQ	29.8977
+saving updatedv	0.53543
+Broadcasting	1.8
+copyV_i+1	54.9368
+Iteration 2 Alluxio_Row_mv_version3 takes: 0.000842
+Iteration: 2: 209.0993s
+MV	31.1545
+alpha	0.014055
+Broadcasting	1.4469
+onetime_saxv	57.6816
+beta	0.089659
+Broadcasting	1.6236
+updateQ	87.5622
+saving updatedv	0.68475
+Broadcasting	1.6644
+copyV_i+1	86.4671
+Iteration 3 Alluxio_Row_mv_version3 takes: 0.000896
+Iteration: 3: 298.5847s
+MV	31.0427
+alpha	0.01571
+Broadcasting	1.5251
+onetime_saxv	57.3401
+beta	0.081024
+Broadcasting	1.7446
+updateQ	57.8687
+saving updatedv	0.6008
+Broadcasting	1.5451
+copyV_i+1	55.4827
+Iteration 4 Alluxio_Row_mv_version3 takes: 0.000739
+Iteration: 4: 237.8607s
+MV	17.0521
+alpha	0.015562
+Broadcasting	1.3548
+onetime_saxv	27.833
+beta	0.084293
+Broadcasting	1.3439
+updateQ	28.5359
+saving updatedv	0.6564
+Broadcasting	1.3233
+copyV_i+1	55.1495
+Iteration 5 Alluxio_Row_mv_version3 takes: 0.000861
+Iteration: 5: 163.1149s
+MV	17.1348
+alpha	0.014173
+Broadcasting	1.5681
+onetime_saxv	27.8066
+beta	0.089915
+Broadcasting	1.4454
+updateQ	28.3316
+saving updatedv	0.76479
+Broadcasting	1.6142
+copyV_i+1	24.7112
+Iteration 6 Alluxio_Row_mv_version3 takes: 0.000855
+Iteration: 6: 133.877s
+MV	31.234
+alpha	0.013891
+Broadcasting	1.758
+onetime_saxv	27.9173
+beta	0.07729
+Broadcasting	1.4542
+updateQ	29.5529
+saving updatedv	0.84452
+Broadcasting	1.4355
+copyV_i+1	54.4636
+Iteration 7 Alluxio_Row_mv_version3 takes: 0.000898
+Iteration: 7: 178.5195s
+MV	17.2363
+alpha	0.015006
+Broadcasting	1.5687
+onetime_saxv	27.6782
+beta	0.11195
+Broadcasting	1.4497
+updateQ	28.4172
+saving updatedv	0.55961
+Broadcasting	1.4883
+copyV_i+1	55.1818
+Iteration 8 Alluxio_Row_mv_version3 takes: 0.000845
+Iteration: 8: 163.1941s
+MV	16.5238
+alpha	0.015488
+Broadcasting	1.5916
+onetime_saxv	27.3696
+beta	0.081453
+Broadcasting	1.7227
+updateQ	28.2511
+saving updatedv	0.67223
+Broadcasting	1.4199
+copyV_i+1	25.4197
+Iteration 9 Alluxio_Row_mv_version3 takes: 0.000637
+Iteration: 9: 133.7296s
+MV	31.0231
+alpha	0.014546
+Broadcasting	1.4705
+onetime_saxv	57.8578
+beta	0.093083
+Broadcasting	1.4166
+updateQ	59.414
+saving updatedv	0.59015
+Broadcasting	1.8333
+copyV_i+1	55.0365
+Iteration 10 Alluxio_Row_mv_version3 takes: 0.000955
+Iteration: 10: 238.8439s
+Ending time: 13-Apr-2016 14:59:07
+***********************************************
+Begin time: 14-Apr-2016 15:48:54
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+Saving vector to global file costs 6.5136sMachine copy vector costs 52.2621sMV	31.2244
+Time received: 14-Apr-2016 15:51:25
+alpha	0.052562
+Broadcasting	1.6867
+onetime_saxv	27.2536
+Time received: 14-Apr-2016 15:51:55
+beta	0.50933
+Broadcasting	1.95
+updateQ	32.3678
+Time received: 14-Apr-2016 15:52:31
+saving updatedv	0.57771
+Broadcasting	2.0965
+copyV_i+1	54.332
+Time received: 14-Apr-2016 15:53:30
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.00262
+Iteration: 1: 237.3844s
+MV	45.9941
+Time received: 14-Apr-2016 15:54:45
+alpha	0.019364
+Broadcasting	1.5124
+onetime_saxv	27.0013
+Time received: 14-Apr-2016 15:55:14
+beta	0.083602
+Broadcasting	1.7245
+updateQ	28.7665
+Time received: 14-Apr-2016 15:55:45
+saving updatedv	0.56062
+Broadcasting	1.5089
+copyV_i+1	55.1589
+Time received: 14-Apr-2016 15:56:44
+Iteration 2 Alluxio_Row_mv_version3 takes: 0.000802
+Iteration: 2: 194.2168s
+MV	19.5738
+Time received: 14-Apr-2016 15:57:32
+alpha	0.017258
+Broadcasting	1.8621
+onetime_saxv	27.3267
+Time received: 14-Apr-2016 15:58:02
+beta	0.086969
+Broadcasting	1.4948
+updateQ	28.63
+Time received: 14-Apr-2016 15:58:33
+saving updatedv	0.59674
+Broadcasting	1.4729
+copyV_i+1	24.9816
+Time received: 14-Apr-2016 15:59:02
+Iteration 3 Alluxio_Row_mv_version3 takes: 0.00096
+Iteration: 3: 136.9993s
+MV	31.3302
+Time received: 14-Apr-2016 16:00:01
+alpha	0.018541
+Broadcasting	1.8161
+onetime_saxv	57.3445
+Time received: 14-Apr-2016 16:01:01
+beta	0.46396
+Broadcasting	1.4024
+updateQ	57.7706
+Time received: 14-Apr-2016 16:02:01
+saving updatedv	0.575
+Broadcasting	1.9794
+copyV_i+1	55.4654
+Time received: 14-Apr-2016 16:03:01
+Iteration 4 Alluxio_Row_mv_version3 takes: 0.000836
+Iteration: 4: 239.249s
+MV	31.2075
+Time received: 14-Apr-2016 16:04:00
+alpha	0.015461
+Broadcasting	1.7999
+onetime_saxv	57.0223
+Time received: 14-Apr-2016 16:05:00
+beta	0.47009
+Broadcasting	2.6663
+updateQ	56.5889
+Time received: 14-Apr-2016 16:06:00
+saving updatedv	0.58232
+Broadcasting	2.2399
+***********************************************
+Begin time: 14-Apr-2016 16:25:00
+*******************************************
+**Commands: YinEigen( 5,29,1048576,0,105,10,5,1,0,0,0,1)
+Saving vector to global file costs 6.2482sMachine copy vector costs 45.8143sMV	31.3304
+Time received: 14-Apr-2016 16:27:22
+***********************
+alpha	0.054011
+***********************
+Time broadcasts: 14-Apr-2016 16:27:23
+Broadcasting done time: 14-Apr-2016 16:27:25
+Broadcasting	1.5349
+onetime_saxv	28.0173
+Time received: 14-Apr-2016 16:27:53
+***********************************
+********************
+beta	0.16199
+************************
+Broadcasting	1.4446
+Time sent: 14-Apr-2016 16:27:55
+updateQ	29.5543
+Time received: 14-Apr-2016 16:28:25
+******************************
+saving updatedv	0.57204
+*******************************************
+Broadcasting	1.5275
+Broadcasting time: 14-Apr-2016 16:28:29
+copyV_i+1	55.0119
+Time received: 14-Apr-2016 16:29:24
+***********************
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.002055
+Iteration: 1: 227.0504s
+MV	16.9348
+Time received: 14-Apr-2016 16:30:07
+***********************
+alpha	0.016807
+***********************
+Time broadcasts: 14-Apr-2016 16:30:08
+Broadcasting done time: 14-Apr-2016 16:30:10
+Broadcasting	1.4093
+onetime_saxv	27.6321
+Time received: 14-Apr-2016 16:30:37
+***********************************
+********************
+beta	0.10053
+************************
+Broadcasting	1.8692
+Time sent: 14-Apr-2016 16:30:40
+updateQ	28.1613
+Time received: 14-Apr-2016 16:31:08
+******************************
+saving updatedv	0.60867
+*******************************************
+Broadcasting	1.4389
+Broadcasting time: 14-Apr-2016 16:31:12
+copyV_i+1	25.141
+Time received: 14-Apr-2016 16:31:37
+***********************
+Iteration 2 Alluxio_Row_mv_version3 takes: 0.000861
+Iteration: 2: 133.269s
+MV	31.142
+Time received: 14-Apr-2016 16:32:36
+***********************
+alpha	0.015289
+***********************
+Time broadcasts: 14-Apr-2016 16:32:37
+Broadcasting done time: 14-Apr-2016 16:32:38
+Broadcasting	1.6514
+onetime_saxv	28.039
+Time received: 14-Apr-2016 16:33:06
+***********************************
+********************
+beta	0.083025
+************************
+Broadcasting	1.5496
+Time sent: 14-Apr-2016 16:33:09
+updateQ	29.7646
+Time received: 14-Apr-2016 16:33:39
+******************************
+saving updatedv	0.62714
+*******************************************
+Broadcasting	1.4212
+Broadcasting time: 14-Apr-2016 16:33:43
+copyV_i+1	54.0511
+Time received: 14-Apr-2016 16:34:37
+***********************
+Iteration 3 Alluxio_Row_mv_version3 takes: 0.000847
+Iteration: 3: 178.9332s
+MV	31.3068
+Time received: 14-Apr-2016 16:35:34
+***********************
+alpha	0.017186
+***********************
+Time broadcasts: 14-Apr-2016 16:35:35
+Broadcasting done time: 14-Apr-2016 16:35:36
+Broadcasting	1.482
+onetime_saxv	57.1444
+Time received: 14-Apr-2016 16:36:33
+***********************************
+********************
+beta	0.089053
+************************
+Broadcasting	2.1802
+Time sent: 14-Apr-2016 16:36:36
+updateQ	57.2009
+Time received: 14-Apr-2016 16:37:34
+******************************
+saving updatedv	0.60123
+*******************************************
+Broadcasting	1.5035
+Broadcasting time: 14-Apr-2016 16:37:38
+copyV_i+1	55.8964
+Time received: 14-Apr-2016 16:38:34
+***********************
+Iteration 4 Alluxio_Row_mv_version3 takes: 0.00074
+Iteration: 4: 236.7264s
+MV	31.1637
+Time received: 14-Apr-2016 16:39:31
+***********************
+alpha	0.015864
+***********************
+Time broadcasts: 14-Apr-2016 16:39:32
+Broadcasting done time: 14-Apr-2016 16:39:34
+Broadcasting	1.4773
+onetime_saxv	57.3124
+Time received: 14-Apr-2016 16:40:31
+***********************************
+********************
+beta	0.10046
+************************
+Broadcasting	1.7913
+Time sent: 14-Apr-2016 16:40:34
+updateQ	29.4345
+Time received: 14-Apr-2016 16:41:03
+******************************
+saving updatedv	0.56805
+*******************************************
+Broadcasting	1.4579
+Broadcasting time: 14-Apr-2016 16:41:07
+copyV_i+1	56.1524
+Time received: 14-Apr-2016 16:42:03
+***********************
+Iteration 5 Alluxio_Row_mv_version3 takes: 0.000838
+Iteration: 5: 209.5436s
+MV	31.2322
+Time received: 14-Apr-2016 16:43:01
+***********************
+alpha	0.015633
+***********************
+Time broadcasts: 14-Apr-2016 16:43:02
+Broadcasting done time: 14-Apr-2016 16:43:04
+Broadcasting	1.9874
+onetime_saxv	27.5674
+Time received: 14-Apr-2016 16:43:32
+***********************************
+********************
+beta	0.087708
+************************
+Broadcasting	1.6115
+Time sent: 14-Apr-2016 16:43:34
+updateQ	29.4001
+Time received: 14-Apr-2016 16:44:03
+******************************
+saving updatedv	0.63401
+*******************************************
+Broadcasting	1.6452
+Broadcasting time: 14-Apr-2016 16:44:08
+copyV_i+1	54.1816
+Time received: 14-Apr-2016 16:45:02
+***********************
+Iteration 6 Alluxio_Row_mv_version3 takes: 0.00079
+Iteration: 6: 178.3721s
+MV	31.4407
+Time received: 14-Apr-2016 16:46:02
+***********************
+alpha	0.016732
+***********************
+Time broadcasts: 14-Apr-2016 16:46:02
+Broadcasting done time: 14-Apr-2016 16:46:04
+Broadcasting	1.795
+onetime_saxv	57.4047
+Time received: 14-Apr-2016 16:47:02
+***********************************
+********************
+beta	0.098465
+************************
+Broadcasting	1.5544
+Time sent: 14-Apr-2016 16:47:04
+updateQ	87.7975
+Time received: 14-Apr-2016 16:48:32
+******************************
+saving updatedv	0.53768
+*******************************************
+Broadcasting	1.8967
+Broadcasting time: 14-Apr-2016 16:48:36
+copyV_i+1	85.1942
+Time received: 14-Apr-2016 16:50:01
+***********************
+Iteration 7 Alluxio_Row_mv_version3 takes: 0.000834
+Iteration: 7: 299.2386s
+Saving vector to global file costs 6.8185s
+Saving vector to global file costs 6.9596s
+Machine copy vector costs 17.2603s
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.003208
+Iteration: 1: 190.5393s
+Iteration 2 Alluxio_Row_mv_version3 takes: 0.000882
+Iteration: 2: 162.9846s
+Iteration 3 Alluxio_Row_mv_version3 takes: 0.000864
+Iteration: 3: 133.1351s
+Iteration 4 Alluxio_Row_mv_version3 takes: 0.000867
+Iteration: 4: 146.9736s
+Iteration 5 Alluxio_Row_mv_version3 takes: 0.000602
+Iteration: 5: 178.6s
+Iteration 6 Alluxio_Row_mv_version3 takes: 0.000615
+Iteration: 6: 212.0553s
+Iteration 7 Alluxio_Row_mv_version3 takes: 0.000609
+Iteration: 7: 207.7517s
+Iteration 8 Alluxio_Row_mv_version3 takes: 0.000656
+Iteration: 8: 179.1879s
+Iteration 9 Alluxio_Row_mv_version3 takes: 0.000826
+Iteration: 9: 236.9811s
+Iteration 10 Alluxio_Row_mv_version3 takes: 0.000861
+Iteration: 10: 237.4517s
+Ending time: 15-Apr-2016 11:18:50
+----------------------Iteration: 1 begins-----------------------
+Saving vector to global file costs 6.8843s
+Machine copy vector costs 51.8062s
+Iteration 1 Alluxio_Row_mv_version3 takes: 0.002
+Iteration: 1: 232.9558s
+----------------------Iteration: 2 begins-----------------------
+Iteration: 2: 236.9185s
+----------------------Iteration: 3 begins-----------------------
+Iteration: 3: 133.9938s
+----------------------Iteration: 4 begins-----------------------
+Iteration: 4: 149.3413s
+----------------------Iteration: 5 begins-----------------------
+Iteration: 5: 238.5304s
+----------------------Iteration: 6 begins-----------------------
+Iteration: 6: 211.6956s
+----------------------Iteration: 7 begins-----------------------
+Iteration: 7: 178.5077s
+----------------------Iteration: 8 begins-----------------------
+Iteration: 8: 178.0094s
+----------------------Iteration: 9 begins-----------------------
+Iteration: 9: 177.2989s
+----------------------Iteration: 10 begins-----------------------
+Iteration: 10: 149.3036s
+Ending time: 15-Apr-2016 15:39:28
+----------------------Iteration: 1 begins-----------------------Saving vector to global file costs 7.0016s
+Machine copy vector costs 22.0227s
+----------------------Iteration: 1 begins-----------------------Saving vector to global file costs 7.0427s
+Machine copy vector costs 46.1465s
+----------------------Iteration: 1 begins-----------------------Saving vector to global file costs 7.0135s
+Machine copy vector costs 16.0779s
+Iteration 1 SO takes: 0.10457
+Iteration: 1: 226.1028s
+----------------------Iteration: 2 begins-----------------------Iteration 2 SO takes: 0.059526
+Iteration: 2: 178.4095s
+----------------------Iteration: 3 begins-----------------------Iteration 3 SO takes: 0.05489
+Iteration: 3: 207.3918s
+----------------------Iteration: 4 begins-----------------------Iteration 4 SO takes: 0.05188
+Iteration: 4: 181.7994s
+----------------------Iteration: 5 begins-----------------------Iteration 5 SO takes: 0.054439
+Iteration: 5: 205.9955s
+----------------------Iteration: 6 begins-----------------------Iteration 6 SO takes: 0.098412
+Iteration: 6: 205.9342s
+----------------------Iteration: 7 begins-----------------------Iteration 7 SO takes: 0.056409
+Iteration: 7: 209.5658s
+----------------------Iteration: 8 begins-----------------------Iteration 8 SO takes: 0.055541
+Iteration: 8: 180.0803s
+----------------------Iteration: 9 begins-----------------------Iteration 9 SO takes: 0.057564
+Iteration: 9: 206.8343s
+----------------------Iteration: 10 begins-----------------------Iteration 10 SO takes: 0.059382
+Iteration: 10: 206.1047s
+Ending time: 20-Apr-2016 18:04:25

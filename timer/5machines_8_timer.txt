@@ -1,0 +1,1553 @@
+**************Iteration 1*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.19889s
+Now constructing the vectorConstruction of vector done! It takes 0.20833s
+Read processor id: 8 from file costs: 0.30863s	Construct sparse: 1.2776s
+Multiplication: 0.053345s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.004209s
+vi*v costs 0.20227
+Now sending onde vi * v to leader processsending signal costs: 0.10702
+Time sent: 14-Apr-2016 16:26:56
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 14-Apr-2016 16:27:27
+alpha value is: 128.4773
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 14-Apr-2016 16:27:28
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 14-Apr-2016 16:27:57
+Getting beta value from Accumulo ...
+ Beta value is 1018.8094
+Done with updateQ, sending signal back to leader process ...
+Time sent: 14-Apr-2016 16:27:57
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 14-Apr-2016 16:27:58
+Received the con signal from leader process now saving V_i+1
+Time received: 14-Apr-2016 16:28:58
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.73664s
+Writing to local file costs 0.5145s
+It takes: 1.4139s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.082908
+Time sent: 14-Apr-2016 16:29:02
+**************Iteration 1*****************
+**************Iteration 2*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.23173s
+Now constructing the vectorConstruction of vector done! It takes 0.18441s
+Read processor id: 8 from file costs: 0.25643s	Construct sparse: 1.2194s
+Multiplication: 0.054277s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002298s
+vi*v costs 0.2281
+Now sending onde vi * v to leader processsending signal costs: 0.062449
+Time sent: 14-Apr-2016 16:29:55
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 14-Apr-2016 16:30:26
+alpha value is: 4861910.369
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.032325s
+Now constructing the vector i-1Construction of vector done! It takes 0.2227s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 14-Apr-2016 16:30:27
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 14-Apr-2016 16:30:56
+Getting beta value from Accumulo ...
+ Beta value is 813629273.52
+Done with updateQ, sending signal back to leader process ...
+Time sent: 14-Apr-2016 16:30:56
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 14-Apr-2016 16:30:56
+Received the con signal from leader process now saving V_i+1
+Time received: 14-Apr-2016 16:31:26
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.84688s
+Writing to local file costs 0.50745s
+It takes: 1.7446s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.095918
+Time sent: 14-Apr-2016 16:31:30
+**************Iteration 2*****************
+**************Iteration 3*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.2579s
+Now constructing the vectorConstruction of vector done! It takes 0.22186s
+Read processor id: 8 from file costs: 0.33249s	Construct sparse: 1.2319s
+Multiplication: 0.050895s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002145s
+vi*v costs 0.17827
+Now sending onde vi * v to leader processsending signal costs: 0.061349
+Time sent: 14-Apr-2016 16:32:12
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 14-Apr-2016 16:33:05
+alpha value is: 159.8198
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.11103s
+Now constructing the vector i-1Construction of vector done! It takes 0.16731s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 14-Apr-2016 16:33:06
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 14-Apr-2016 16:33:36
+Getting beta value from Accumulo ...
+ Beta value is 136163656938.7151
+Done with updateQ, sending signal back to leader process ...
+Time sent: 14-Apr-2016 16:33:36
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 14-Apr-2016 16:33:36
+Received the con signal from leader process now saving V_i+1
+Time received: 14-Apr-2016 16:34:06
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.75839s
+Writing to local file costs 0.40819s
+It takes: 1.2616s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.10928
+Time sent: 14-Apr-2016 16:34:09
+**************Iteration 3*****************
+**************Iteration 4*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.29286s
+Now constructing the vectorConstruction of vector done! It takes 0.23079s
+Read processor id: 8 from file costs: 0.39092s	Construct sparse: 1.2357s
+Multiplication: 0.055208s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002178s
+vi*v costs 0.22765
+Now sending onde vi * v to leader processsending signal costs: 0.11045
+Time sent: 14-Apr-2016 16:35:08
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 14-Apr-2016 16:36:01
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.12567s
+Now constructing the vector i-1Construction of vector done! It takes 0.169s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 14-Apr-2016 16:36:01
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 14-Apr-2016 16:37:01
+Getting beta value from Accumulo ...
+ Beta value is 130649453917.6155
+Done with updateQ, sending signal back to leader process ...
+Time sent: 14-Apr-2016 16:37:01
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 14-Apr-2016 16:37:01
+Received the con signal from leader process now saving V_i+1
+Time received: 14-Apr-2016 16:38:01
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.74819s
+Writing to local file costs 0.61178s
+It takes: 1.5215s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.18027
+Time sent: 14-Apr-2016 16:38:05
+**************Iteration 4*****************
+**************Iteration 5*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.23128s
+Now constructing the vectorConstruction of vector done! It takes 0.16731s
+Read processor id: 8 from file costs: 0.44061s	Construct sparse: 1.253s
+Multiplication: 0.053995s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003334s
+vi*v costs 0.1824
+Now sending onde vi * v to leader processsending signal costs: 0.066094
+Time sent: 14-Apr-2016 16:39:05
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 14-Apr-2016 16:39:58
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.10997s
+Now constructing the vector i-1Construction of vector done! It takes 0.17986s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 14-Apr-2016 16:39:59
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 14-Apr-2016 16:40:58
+Getting beta value from Accumulo ...
+ Beta value is 130649635175.7698
+Done with updateQ, sending signal back to leader process ...
+Time sent: 14-Apr-2016 16:40:58
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 14-Apr-2016 16:40:58
+Received the con signal from leader process now saving V_i+1
+Time received: 14-Apr-2016 16:41:29
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.75506s
+Writing to local file costs 0.49875s
+It takes: 1.3681s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.10294
+Time sent: 14-Apr-2016 16:41:32
+**************Iteration 5*****************
+**************Iteration 6*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.19393s
+Now constructing the vectorConstruction of vector done! It takes 0.15555s
+Read processor id: 8 from file costs: 0.34229s	Construct sparse: 1.2196s
+Multiplication: 0.052224s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002212s
+vi*v costs 0.20417
+Now sending onde vi * v to leader processsending signal costs: 0.071997
+Time sent: 14-Apr-2016 16:42:36
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 14-Apr-2016 16:43:30
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.16571s
+Now constructing the vector i-1Construction of vector done! It takes 0.17453s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 14-Apr-2016 16:43:31
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 14-Apr-2016 16:44:01
+Getting beta value from Accumulo ...
+ Beta value is 130649438293.8039
+Done with updateQ, sending signal back to leader process ...
+Time sent: 14-Apr-2016 16:44:01
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 14-Apr-2016 16:44:01
+Received the con signal from leader process now saving V_i+1
+Time received: 14-Apr-2016 16:44:31
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.78233s
+Writing to local file costs 0.49649s
+It takes: 1.3884s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.087602
+Time sent: 14-Apr-2016 16:44:35
+**************Iteration 6*****************
+**************Iteration 7*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.25231s
+Now constructing the vectorConstruction of vector done! It takes 0.15819s
+Read processor id: 8 from file costs: 0.47936s	Construct sparse: 1.2501s
+Multiplication: 0.069062s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003045s
+vi*v costs 0.19721
+Now sending onde vi * v to leader processsending signal costs: 0.09683
+Time sent: 14-Apr-2016 16:45:36
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 14-Apr-2016 16:46:28
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.13005s
+Now constructing the vector i-1Construction of vector done! It takes 0.19083s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 14-Apr-2016 16:46:29
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 14-Apr-2016 16:47:29
+Getting beta value from Accumulo ...
+ Beta value is 130649635174.5491
+Done with updateQ, sending signal back to leader process ...
+Time sent: 14-Apr-2016 16:47:29
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 14-Apr-2016 16:47:29
+Received the con signal from leader process now saving V_i+1
+Time received: 14-Apr-2016 16:48:59
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.8109s
+Writing to local file costs 0.4449s
+It takes: 1.4079s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.084061
+Time sent: 14-Apr-2016 16:49:02
+**************Iteration 7*****************
+**************Iteration 8*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.23504s
+Now constructing the vectorConstruction of vector done! It takes 0.18541s
+Read processor id: 8 from file costs: 0.26782s	Construct sparse: 1.2158s
+Multiplication: 0.054329s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002621s
+vi*v costs 0.17489
+Now sending onde vi * v to leader processsending signal costs: 0.05808
+Time sent: 14-Apr-2016 16:50:33
+Waiting for leader to continue to onetime_saxv... 
+**************Iteration 1*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.23842s
+Now constructing the vectorConstruction of vector done! It takes 0.2546s
+Read processor id: 8 from file costs: 0.54009s	Construct sparse: 1.2748s
+Multiplication: 0.058356s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002407s
+vi*v costs 0.21936
+Now sending onde vi * v to leader processsending signal costs: 0.070976
+Time sent: 15-Apr-2016 10:48:14
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 10:49:07
+alpha value is: 128.4773
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 10:49:07
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 10:49:37
+Getting beta value from Accumulo ...
+ Beta value is 1018.8094
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 10:49:37
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 10:49:37
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 10:50:07
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.66396s
+Writing to local file costs 0.45475s
+It takes: 1.2583s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.11558
+Time sent: 15-Apr-2016 10:50:11
+**************Iteration 1*****************
+**************Iteration 2*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.34064s
+Now constructing the vectorConstruction of vector done! It takes 0.19067s
+Read processor id: 8 from file costs: 0.37378s	Construct sparse: 1.3444s
+Multiplication: 0.067743s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002882s
+vi*v costs 0.17252
+Now sending onde vi * v to leader processsending signal costs: 0.10207
+Time sent: 15-Apr-2016 10:51:05
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 10:51:28
+alpha value is: 4861910.369
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.033751s
+Now constructing the vector i-1Construction of vector done! It takes 0.21803s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 10:51:28
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 10:51:58
+Getting beta value from Accumulo ...
+ Beta value is 813629273.52
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 10:51:58
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 10:51:58
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 10:52:28
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.69354s
+Writing to local file costs 0.45059s
+It takes: 1.2997s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.3734
+Time sent: 15-Apr-2016 10:52:31
+**************Iteration 2*****************
+**************Iteration 3*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.24576s
+Now constructing the vectorConstruction of vector done! It takes 0.21771s
+Read processor id: 8 from file costs: 0.40386s	Construct sparse: 1.2348s
+Multiplication: 0.055496s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002185s
+vi*v costs 0.22083
+Now sending onde vi * v to leader processsending signal costs: 0.098488
+Time sent: 15-Apr-2016 10:53:48
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 10:54:12
+alpha value is: 159.8198
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.11834s
+Now constructing the vector i-1Construction of vector done! It takes 0.18636s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 10:54:12
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 10:54:42
+Getting beta value from Accumulo ...
+ Beta value is 136163656938.7151
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 10:54:42
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 10:54:42
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 10:55:12
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.70299s
+Writing to local file costs 0.39465s
+It takes: 1.245s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.08845
+Time sent: 15-Apr-2016 10:55:15
+**************Iteration 3*****************
+**************Iteration 4*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.27877s
+Now constructing the vectorConstruction of vector done! It takes 0.23025s
+Read processor id: 8 from file costs: 0.43671s	Construct sparse: 1.3374s
+Multiplication: 0.058834s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002959s
+vi*v costs 0.16668
+Now sending onde vi * v to leader processsending signal costs: 0.068551
+Time sent: 15-Apr-2016 10:56:05
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 10:56:35
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.11869s
+Now constructing the vector i-1Construction of vector done! It takes 0.1976s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 10:56:37
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 10:57:07
+Getting beta value from Accumulo ...
+ Beta value is 130649453917.6155
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 10:57:07
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 10:57:08
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 10:57:38
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.88122s
+Writing to local file costs 0.49687s
+It takes: 1.5245s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.13871
+Time sent: 15-Apr-2016 10:57:42
+**************Iteration 4*****************
+**************Iteration 5*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.20914s
+Now constructing the vectorConstruction of vector done! It takes 0.16432s
+Read processor id: 8 from file costs: 0.67039s	Construct sparse: 1.3035s
+Multiplication: 0.072068s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.00315s
+vi*v costs 0.19743
+Now sending onde vi * v to leader processsending signal costs: 0.096195
+Time sent: 15-Apr-2016 10:58:30
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 10:59:24
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.062956s
+Now constructing the vector i-1Construction of vector done! It takes 0.22677s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 10:59:25
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 10:59:55
+Getting beta value from Accumulo ...
+ Beta value is 130649635175.7698
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 10:59:55
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 10:59:55
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 11:00:25
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.76554s
+Writing to local file costs 0.35402s
+It takes: 1.1944s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.090644
+Time sent: 15-Apr-2016 11:00:28
+**************Iteration 5*****************
+**************Iteration 6*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.29225s
+Now constructing the vectorConstruction of vector done! It takes 0.21917s
+Read processor id: 8 from file costs: 0.49262s	Construct sparse: 1.1841s
+Multiplication: 0.068135s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002061s
+vi*v costs 0.20636
+Now sending onde vi * v to leader processsending signal costs: 0.06545
+Time sent: 15-Apr-2016 11:01:28
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 11:02:21
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.1403s
+Now constructing the vector i-1Construction of vector done! It takes 0.2031s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 11:02:21
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 11:03:21
+Getting beta value from Accumulo ...
+ Beta value is 130649438293.8039
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 11:03:21
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 11:03:21
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 11:03:51
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.086042s
+Writing to local file costs 0.39894s
+It takes: 0.50065s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.12414
+Time sent: 15-Apr-2016 11:03:54
+**************Iteration 6*****************
+**************Iteration 7*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.2219s
+Now constructing the vectorConstruction of vector done! It takes 0.18578s
+Read processor id: 8 from file costs: 0.37582s	Construct sparse: 1.1957s
+Multiplication: 0.052399s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003298s
+vi*v costs 0.19615
+Now sending onde vi * v to leader processsending signal costs: 0.071909
+Time sent: 15-Apr-2016 11:05:00
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 11:05:53
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.11768s
+Now constructing the vector i-1Construction of vector done! It takes 0.15987s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 11:05:54
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 11:06:53
+Getting beta value from Accumulo ...
+ Beta value is 130649635174.5491
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 11:06:53
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 11:06:53
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 11:07:23
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.71618s
+Writing to local file costs 0.39927s
+It takes: 1.2694s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.047451
+Time sent: 15-Apr-2016 11:07:26
+**************Iteration 7*****************
+**************Iteration 8*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.27862s
+Now constructing the vectorConstruction of vector done! It takes 0.19929s
+Read processor id: 8 from file costs: 0.32266s	Construct sparse: 1.2709s
+Multiplication: 0.0488s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003025s
+vi*v costs 0.16683
+Now sending onde vi * v to leader processsending signal costs: 0.057522
+Time sent: 15-Apr-2016 11:08:30
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 11:09:23
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.045841s
+Now constructing the vector i-1Construction of vector done! It takes 0.16789s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 11:09:24
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 11:09:54
+Getting beta value from Accumulo ...
+ Beta value is 130649438292.5832
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 11:09:54
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 11:09:54
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 11:10:24
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.87823s
+Writing to local file costs 0.39554s
+It takes: 1.4632s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.058142
+Time sent: 15-Apr-2016 11:10:27
+**************Iteration 8*****************
+**************Iteration 9*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.26447s
+Now constructing the vectorConstruction of vector done! It takes 0.24846s
+Read processor id: 8 from file costs: 0.53415s	Construct sparse: 1.3462s
+Multiplication: 0.06591s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003235s
+vi*v costs 0.1936
+Now sending onde vi * v to leader processsending signal costs: 0.088473
+Time sent: 15-Apr-2016 11:11:27
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 11:12:20
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.14775s
+Now constructing the vector i-1Construction of vector done! It takes 0.21423s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 11:12:21
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 11:13:20
+Getting beta value from Accumulo ...
+ Beta value is 130649635173.3284
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 11:13:20
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 11:13:20
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 11:14:21
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.71741s
+Writing to local file costs 0.34713s
+It takes: 1.2007s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.06442
+Time sent: 15-Apr-2016 11:14:24
+**************Iteration 9*****************
+**************Iteration 10*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.26798s
+Now constructing the vectorConstruction of vector done! It takes 0.20717s
+Read processor id: 8 from file costs: 0.41687s	Construct sparse: 1.2811s
+Multiplication: 0.06898s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003082s
+vi*v costs 0.18394
+Now sending onde vi * v to leader processsending signal costs: 0.10079
+Time sent: 15-Apr-2016 11:15:24
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 11:16:17
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.12532s
+Now constructing the vector i-1Construction of vector done! It takes 0.17069s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 11:16:18
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 11:17:17
+Getting beta value from Accumulo ...
+ Beta value is 130649438291.3625
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 11:17:17
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 11:17:18
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 11:18:17
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.8258s
+Writing to local file costs 0.44457s
+It takes: 1.3407s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.095189
+Time sent: 15-Apr-2016 11:18:21
+**************Iteration 10*****************
+**************Iteration 1*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.20053s
+Now constructing the vectorConstruction of vector done! It takes 0.25768s
+Read processor id: 8 from file costs: 0.37751s	Construct sparse: 1.2566s
+Multiplication: 0.075609s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002312s
+vi*v costs 0.16408
+Now sending onde vi * v to leader processsending signal costs: 0.062284
+Time sent: 15-Apr-2016 15:09:25
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:10:18
+alpha value is: 128.4773
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:10:18
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:10:48
+Getting beta value from Accumulo ...
+ Beta value is 1018.8094
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:10:48
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:10:48
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:11:18
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.73861s
+Writing to local file costs 0.35007s
+It takes: 1.2406s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.061985
+Time sent: 15-Apr-2016 15:11:22
+**************Iteration 1*****************
+**************Iteration 2*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.19375s
+Now constructing the vectorConstruction of vector done! It takes 0.17647s
+Read processor id: 8 from file costs: 0.3479s	Construct sparse: 1.2671s
+Multiplication: 0.056261s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003015s
+vi*v costs 0.22222
+Now sending onde vi * v to leader processsending signal costs: 0.071676
+Time sent: 15-Apr-2016 15:12:23
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:13:17
+alpha value is: 4861910.369
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.029876s
+Now constructing the vector i-1Construction of vector done! It takes 0.2569s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:13:17
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:14:17
+Getting beta value from Accumulo ...
+ Beta value is 813629273.52
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:14:17
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:14:17
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:15:17
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.70181s
+Writing to local file costs 0.5163s
+It takes: 1.3604s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.066653
+Time sent: 15-Apr-2016 15:15:20
+**************Iteration 2*****************
+**************Iteration 3*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.22058s
+Now constructing the vectorConstruction of vector done! It takes 0.21582s
+Read processor id: 8 from file costs: 0.45361s	Construct sparse: 1.238s
+Multiplication: 0.051414s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002192s
+vi*v costs 0.1883
+Now sending onde vi * v to leader processsending signal costs: 0.080628
+Time sent: 15-Apr-2016 15:16:22
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:16:45
+alpha value is: 159.8198
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.14263s
+Now constructing the vector i-1Construction of vector done! It takes 0.19546s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:16:46
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:17:15
+Getting beta value from Accumulo ...
+ Beta value is 136163656938.7151
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:17:15
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:17:15
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:17:45
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.79653s
+Writing to local file costs 0.67169s
+It takes: 1.7071s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.080883
+Time sent: 15-Apr-2016 15:17:49
+**************Iteration 3*****************
+**************Iteration 4*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.29775s
+Now constructing the vectorConstruction of vector done! It takes 0.25002s
+Read processor id: 8 from file costs: 0.75426s	Construct sparse: 1.2665s
+Multiplication: 0.06384s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002187s
+vi*v costs 0.18017
+Now sending onde vi * v to leader processsending signal costs: 0.069294
+Time sent: 15-Apr-2016 15:18:38
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:19:09
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.058078s
+Now constructing the vector i-1Construction of vector done! It takes 0.20011s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:19:09
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:19:40
+Getting beta value from Accumulo ...
+ Beta value is 130649453917.6155
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:19:40
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:19:41
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:20:11
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.7152s
+Writing to local file costs 0.42941s
+It takes: 1.2541s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.12427
+Time sent: 15-Apr-2016 15:20:14
+**************Iteration 4*****************
+**************Iteration 5*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.2817s
+Now constructing the vectorConstruction of vector done! It takes 0.19358s
+Read processor id: 8 from file costs: 0.49308s	Construct sparse: 1.5236s
+Multiplication: 0.065193s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003027s
+vi*v costs 0.18057
+Now sending onde vi * v to leader processsending signal costs: 0.055761
+Time sent: 15-Apr-2016 15:21:07
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:22:00
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.08439s
+Now constructing the vector i-1Construction of vector done! It takes 0.26435s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:22:00
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:23:00
+Getting beta value from Accumulo ...
+ Beta value is 130649635175.7698
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:23:00
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:23:00
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:24:01
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.72976s
+Writing to local file costs 0.39771s
+It takes: 1.2089s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.058372
+Time sent: 15-Apr-2016 15:24:04
+**************Iteration 5*****************
+**************Iteration 6*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.24443s
+Now constructing the vectorConstruction of vector done! It takes 0.17553s
+Read processor id: 8 from file costs: 0.46167s	Construct sparse: 1.3126s
+Multiplication: 0.055962s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002122s
+vi*v costs 0.24258
+Now sending onde vi * v to leader processsending signal costs: 0.069606
+Time sent: 15-Apr-2016 15:25:04
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:25:57
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.10197s
+Now constructing the vector i-1Construction of vector done! It takes 0.18204s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:25:57
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:26:57
+Getting beta value from Accumulo ...
+ Beta value is 130649438293.8039
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:26:57
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:26:57
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:27:27
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.71072s
+Writing to local file costs 0.34631s
+It takes: 1.1847s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.12548
+Time sent: 15-Apr-2016 15:27:30
+**************Iteration 6*****************
+**************Iteration 7*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.27276s
+Now constructing the vectorConstruction of vector done! It takes 0.19414s
+Read processor id: 8 from file costs: 0.4028s	Construct sparse: 1.3002s
+Multiplication: 0.057776s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002996s
+vi*v costs 0.17516
+Now sending onde vi * v to leader processsending signal costs: 0.068212
+Time sent: 15-Apr-2016 15:28:39
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:29:31
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.13779s
+Now constructing the vector i-1Construction of vector done! It takes 0.18359s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:29:31
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:30:02
+Getting beta value from Accumulo ...
+ Beta value is 130649635174.5491
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:30:02
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:30:02
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:30:32
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.80074s
+Writing to local file costs 0.42697s
+It takes: 1.3918s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.044312
+Time sent: 15-Apr-2016 15:30:35
+**************Iteration 7*****************
+**************Iteration 8*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.31144s
+Now constructing the vectorConstruction of vector done! It takes 0.21086s
+Read processor id: 8 from file costs: 0.78899s	Construct sparse: 1.3728s
+Multiplication: 0.04757s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003262s
+vi*v costs 0.20833
+Now sending onde vi * v to leader processsending signal costs: 0.062601
+Time sent: 15-Apr-2016 15:31:35
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:32:27
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.058451s
+Now constructing the vector i-1Construction of vector done! It takes 0.25366s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:32:28
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:32:57
+Getting beta value from Accumulo ...
+ Beta value is 130649438292.5832
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:32:58
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:32:58
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:33:28
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.80116s
+Writing to local file costs 0.34566s
+It takes: 1.218s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.07853
+Time sent: 15-Apr-2016 15:33:31
+**************Iteration 8*****************
+**************Iteration 9*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.21887s
+Now constructing the vectorConstruction of vector done! It takes 0.20425s
+Read processor id: 8 from file costs: 0.26991s	Construct sparse: 1.257s
+Multiplication: 0.077061s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003267s
+vi*v costs 0.21656
+Now sending onde vi * v to leader processsending signal costs: 0.068462
+Time sent: 15-Apr-2016 15:34:32
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:35:25
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.095584s
+Now constructing the vector i-1Construction of vector done! It takes 0.18044s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:35:26
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:35:55
+Getting beta value from Accumulo ...
+ Beta value is 130649635173.3284
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:35:55
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:35:55
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:36:26
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.77896s
+Writing to local file costs 0.3705s
+It takes: 1.2871s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.056831
+Time sent: 15-Apr-2016 15:36:29
+**************Iteration 9*****************
+**************Iteration 10*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.26816s
+Now constructing the vectorConstruction of vector done! It takes 0.18401s
+Read processor id: 8 from file costs: 0.42822s	Construct sparse: 1.2553s
+Multiplication: 0.05159s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002133s
+vi*v costs 0.2082
+Now sending onde vi * v to leader processsending signal costs: 0.076896
+Time sent: 15-Apr-2016 15:37:30
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 15-Apr-2016 15:38:23
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.11432s
+Now constructing the vector i-1Construction of vector done! It takes 0.17391s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 15-Apr-2016 15:38:23
+Waiting for leader to continue update V... 
+Received the con signal from leader process now updating V
+Time received: 15-Apr-2016 15:38:53
+Getting beta value from Accumulo ...
+ Beta value is 130649438291.3625
+Done with updateQ, sending signal back to leader process ...
+Time sent: 15-Apr-2016 15:38:53
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 15-Apr-2016 15:38:53
+Received the con signal from leader process now saving V_i+1
+Time received: 15-Apr-2016 15:39:23
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.74723s
+Writing to local file costs 0.4873s
+It takes: 1.392s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.11204
+Time sent: 15-Apr-2016 15:39:27
+**************Iteration 10*****************
+**************Iteration 1*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.24224s
+Now constructing the vectorConstruction of vector done! It takes 0.22706s
+Read processor id: 8 from file costs: 0.46334s	Construct sparse: 1.2204s
+Multiplication: 0.055005s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.00262s
+vi*v costs 0.17718
+Now sending done vi * v to leader processsending signal costs: 0.076422
+Time sent: 20-Apr-2016 17:20:27
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:20:59
+alpha value is: 128.4773
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:20:59
+**************Iteration 1*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.19877s
+Now constructing the vectorConstruction of vector done! It takes 0.29713s
+Read processor id: 8 from file costs: 0.39168s	Construct sparse: 1.2465s
+Multiplication: 0.051708s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003088s
+vi*v costs 0.15589
+Now sending done vi * v to leader processsending signal costs: 0.060241
+Time sent: 20-Apr-2016 17:26:17
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:26:48
+alpha value is: 128.4773
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:26:48
+**************Iteration 1*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.24009s
+Now constructing the vectorConstruction of vector done! It takes 0.28799s
+Read processor id: 8 from file costs: 0.43069s	Construct sparse: 1.2933s
+Multiplication: 0.05049s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002875s
+vi*v costs 0.2113
+Now sending done vi * v to leader processsending signal costs: 0.073085
+Time sent: 20-Apr-2016 17:31:46
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:32:38
+alpha value is: 128.4773
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:32:38
+**************Iteration 1*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 1018.8094
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:33:38
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:33:41
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:34:10
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.7897s
+Writing to local file costs 0.41681s
+It takes: 1.2131s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.11422
+Time sent: 20-Apr-2016 17:34:14
+**************Iteration 1*****************
+**************Iteration 2*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.265s
+Now constructing the vectorConstruction of vector done! It takes 0.17216s
+Read processor id: 8 from file costs: 0.4257s	Construct sparse: 1.2626s
+Multiplication: 0.0474s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002827s
+vi*v costs 0.1826
+Now sending done vi * v to leader processsending signal costs: 0.067509
+Time sent: 20-Apr-2016 17:35:16
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:35:45
+alpha value is: 4861910.369
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.027911s
+Now constructing the vector i-1Construction of vector done! It takes 0.27196s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:35:46
+**************Iteration 2*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 813629273.52
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:36:38
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:36:40
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:37:09
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 1.04s
+Writing to local file costs 0.59343s
+It takes: 1.6414s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.054106
+Time sent: 20-Apr-2016 17:37:13
+**************Iteration 2*****************
+**************Iteration 3*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.27135s
+Now constructing the vectorConstruction of vector done! It takes 0.17625s
+Read processor id: 8 from file costs: 0.38877s	Construct sparse: 1.2025s
+Multiplication: 0.050165s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003214s
+vi*v costs 0.22926
+Now sending done vi * v to leader processsending signal costs: 0.073904
+Time sent: 20-Apr-2016 17:38:14
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:38:44
+alpha value is: 159.8198
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.13019s
+Now constructing the vector i-1Construction of vector done! It takes 0.16797s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:38:45
+**************Iteration 3*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 136163656938.7151
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:39:39
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:39:41
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:40:36
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.84672s
+Writing to local file costs 0.44145s
+It takes: 1.2953s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.70763
+Time sent: 20-Apr-2016 17:40:40
+**************Iteration 3*****************
+**************Iteration 4*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.18548s
+Now constructing the vectorConstruction of vector done! It takes 0.18261s
+Read processor id: 8 from file costs: 0.31585s	Construct sparse: 1.3652s
+Multiplication: 0.055725s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002945s
+vi*v costs 0.16018
+Now sending done vi * v to leader processsending signal costs: 0.068521
+Time sent: 20-Apr-2016 17:41:38
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:42:31
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.14881s
+Now constructing the vector i-1Construction of vector done! It takes 0.24271s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:42:32
+**************Iteration 4*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 130649453917.6155
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:43:31
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:43:33
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:44:02
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.66392s
+Writing to local file costs 0.39073s
+It takes: 1.064s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.12689
+Time sent: 20-Apr-2016 17:44:05
+**************Iteration 4*****************
+**************Iteration 5*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.20535s
+Now constructing the vectorConstruction of vector done! It takes 0.1706s
+Read processor id: 8 from file costs: 0.32922s	Construct sparse: 1.2113s
+Multiplication: 0.050986s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003183s
+vi*v costs 0.21434
+Now sending done vi * v to leader processsending signal costs: 0.070575
+Time sent: 20-Apr-2016 17:44:39
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:45:33
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.13135s
+Now constructing the vector i-1Construction of vector done! It takes 0.18412s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:45:34
+**************Iteration 5*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 130649635175.7698
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:46:33
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:46:36
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:47:04
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.70507s
+Writing to local file costs 0.47811s
+It takes: 1.1934s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.057652
+Time sent: 20-Apr-2016 17:47:07
+**************Iteration 5*****************
+**************Iteration 6*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.31062s
+Now constructing the vectorConstruction of vector done! It takes 0.23997s
+Read processor id: 8 from file costs: 0.47669s	Construct sparse: 1.1986s
+Multiplication: 0.048621s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002905s
+vi*v costs 0.26654
+Now sending done vi * v to leader processsending signal costs: 0.10746
+Time sent: 20-Apr-2016 17:48:09
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:49:02
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.071781s
+Now constructing the vector i-1Construction of vector done! It takes 0.21192s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:49:02
+**************Iteration 6*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 130649438293.8039
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:49:30
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:49:33
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:50:28
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.75702s
+Writing to local file costs 0.53521s
+It takes: 1.3008s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.16771
+Time sent: 20-Apr-2016 17:50:31
+**************Iteration 6*****************
+**************Iteration 7*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.20436s
+Now constructing the vectorConstruction of vector done! It takes 0.18726s
+Read processor id: 8 from file costs: 0.36571s	Construct sparse: 1.3054s
+Multiplication: 0.0697s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002318s
+vi*v costs 0.21006
+Now sending done vi * v to leader processsending signal costs: 0.10914
+Time sent: 20-Apr-2016 17:51:33
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:52:27
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.10947s
+Now constructing the vector i-1Construction of vector done! It takes 0.18408s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:52:27
+**************Iteration 7*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 130649635174.5491
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:53:01
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:53:03
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:53:58
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.65766s
+Writing to local file costs 0.52689s
+It takes: 1.1908s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.17794
+Time sent: 20-Apr-2016 17:54:01
+**************Iteration 7*****************
+**************Iteration 8*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.25542s
+Now constructing the vectorConstruction of vector done! It takes 0.25271s
+Read processor id: 8 from file costs: 0.7894s	Construct sparse: 1.3675s
+Multiplication: 0.071358s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002968s
+vi*v costs 0.16155
+Now sending done vi * v to leader processsending signal costs: 0.075883
+Time sent: 20-Apr-2016 17:55:03
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:55:32
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.075716s
+Now constructing the vector i-1Construction of vector done! It takes 0.17935s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:55:33
+**************Iteration 8*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 130649438292.5832
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:56:26
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:56:28
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 17:57:24
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.67546s
+Writing to local file costs 0.43735s
+It takes: 1.1214s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.10513
+Time sent: 20-Apr-2016 17:57:27
+**************Iteration 8*****************
+**************Iteration 9*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.27354s
+Now constructing the vectorConstruction of vector done! It takes 0.21674s
+Read processor id: 8 from file costs: 0.48212s	Construct sparse: 1.2749s
+Multiplication: 0.056568s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.003224s
+vi*v costs 0.22527
+Now sending done vi * v to leader processsending signal costs: 0.10056
+Time sent: 20-Apr-2016 17:58:02
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 17:58:56
+alpha value is: 173.5947
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.15051s
+Now constructing the vector i-1Construction of vector done! It takes 0.18085s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 17:58:56
+**************Iteration 9*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 130649635173.3284
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 17:59:56
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 17:59:58
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 18:00:27
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.69708s
+Writing to local file costs 0.5099s
+It takes: 1.2187s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.071762
+Time sent: 20-Apr-2016 18:00:31
+**************Iteration 9*****************
+**************Iteration 10*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Now reading vector from Alluxio
+Read vector takes: 0.22126s
+Now constructing the vectorConstruction of vector done! It takes 0.22859s
+Read processor id: 8 from file costs: 0.40546s	Construct sparse: 1.2459s
+Multiplication: 0.050638s	Now start calculating vi * v
+Now writing result back to Accumulo ...
+Writing back: 0.002686s
+vi*v costs 0.18966
+Now sending done vi * v to leader processsending signal costs: 0.088335
+Time sent: 20-Apr-2016 18:01:31
+Waiting for leader to continue to onetime_saxv... 
+Received the con signal from leader process now calculating onetime_saxv
+Time received: 20-Apr-2016 18:02:02
+alpha value is: 173.5957
+This is when it > 1
+Now reading vector i-1 from Alluxio
+Read vector i-1 takes: 0.12948s
+Now constructing the vector i-1Construction of vector done! It takes 0.17278s
+Done with onetime_saxv, sending signal back to leader ...
+Time sent: 20-Apr-2016 18:02:02
+**************Iteration 10*****************
+Start_col : end_col 21249 : 33200
+My rank id is: 7and My machine is: n118
+Getting beta value from Accumulo ...
+ Beta value is 130649438291.3625
+Done with updateQ, sending signal back to leader process ...
+Time sent: 20-Apr-2016 18:02:54
+Now waiting for leader to send out copying v_i+1 signal ...
+Time started: 20-Apr-2016 18:02:56
+Received the con signal from leader process now saving V_i+1
+Time received: 20-Apr-2016 18:04:21
+Now saving the updatedQ to local machine ...
+copying....Reading from global file costs 0.65485s
+Writing to local file costs 0.43672s
+It takes: 1.1017s to save to local machine
+Done with saving v_i+1, sending signal back to leader process costs 0.06545
+Time sent: 20-Apr-2016 18:04:24
+**************Iteration 10*****************
